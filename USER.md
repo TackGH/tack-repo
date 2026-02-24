@@ -84,5 +84,10 @@ Devices, apps & accounts
 Notes:
 - Project priorities: ask later.
 
+Last updated: 2026-02-24 (saved by assistant)
+
+Changelog:
+- 2026-02-24: Created/updated USER.md with Jeremy's profile, preferences, calendar, and projects. Sections 9–13 deferred for later.
+
 Next steps:
-- Ready for Section 8 (Personal preferences & personality). Reply when you want to continue.
+- Ready for Section 9 (Health & wellbeing). Reply when you want to continue.

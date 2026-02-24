@@ -9,3 +9,11 @@
 - Short bio: ENFP. UI/UX designer, brand and marketing manager.
 - Avatar / Emoji: Open to emojis — prefer using emojis in messages
 - Memory storage: Legal name stored in long-term memory (MEMORY.md)
+
+Last updated: 2026-02-24 (saved by assistant)
+
+Changelog:
+- 2026-02-24: Created/updated identity file with Jeremy's core identity details.
+
+Notes:
+- All future edits to IDENTITY.md will include a "Last updated" timestamp and a changelog entry.
