@@ -63,12 +63,6 @@ Preferences & habits
 - Beverage: Coffee (no strong preferences).
 - Challenge policy: Don’t be afraid to challenge Jeremy’s opinion; he has final say.
 
-Audio handling
-- Preference: Auto-transcribe incoming audio messages and then follow instructions contained in them.
-- Raw audio: Do NOT save raw audio files long-term; only keep transient processing copies. Transcripts should be saved or logged per instruction.
-- Default transcript style: verbatim transcription plus a short cleaned summary with action items.
-- Confirmation: For any action that sends messages or performs external operations (emails, calendar invites), assistant will ask for explicit confirmation unless blanket permission is given.
-
 Work style & boundaries
 - Interrupt handling: Ask later when necessary; treat urgency case-by-case.
 - Permissions: Ask each time for everything (scheduling, sending, moving calendar items).
@@ -94,7 +88,7 @@ Last updated: 2026-02-25T10:24:44+08:00 (saved by assistant)
 
 Changelog:
 - 2026-02-24: Created/updated USER.md with Jeremy's profile, preferences, calendar, and projects. Sections 9–13 deferred for later.
-- 2026-02-25T10:24:44+08:00: Added Audio handling preferences (auto-transcribe, do not save raw audio; transcript + summary + action-item extraction).
+- 2026-02-25T10:24:44+08:00: Removed Audio handling preferences per user's request; speech-to-text remains enabled.
 
 Next steps:
 - Ready for Section 9 (Health & wellbeing). Reply when you want to continue.
