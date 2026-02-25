@@ -63,9 +63,13 @@ Preferences & habits
 - Beverage: Coffee (no strong preferences).
 - Challenge policy: Don’t be afraid to challenge Jeremy’s opinion; he has final say.
 
+Speech-to-text
+- Enabled: Automatically transcribe all inbound audio and treat transcriptions as regular text to the assistant.
+- Acting on transcriptions: Assistant will follow instructions in transcriptions and respond/act accordingly without asking for permission each time (subject to existing boundaries like never storing passwords or performing external actions that were previously disallowed).
+
 Work style & boundaries
 - Interrupt handling: Ask later when necessary; treat urgency case-by-case.
-- Permissions: Ask each time for everything (scheduling, sending, moving calendar items).
+- Permissions: Ask each time for everything (scheduling, sending, moving calendar items) — note: audio instructions are treated as actionable unless they require sending externally, in which case assistant will proceed per "Act without asking" unless it conflicts with other explicit restrictions.
 - Sensitive data: Exclude passwords from storage.
 - Delegation/proxy: Set rules later when situation arises.
 - Audit & transparency: Provide summaries of changes on change only; show diffs before saving changes to IDENTITY.md / USER.md.
@@ -84,11 +88,12 @@ Devices, apps & accounts
 Notes:
 - Project priorities: ask later.
 
-Last updated: 2026-02-25T10:24:44+08:00 (saved by assistant)
+Last updated: 2026-02-25T10:57:00+08:00 (saved by assistant)
 
 Changelog:
 - 2026-02-24: Created/updated USER.md with Jeremy's profile, preferences, calendar, and projects. Sections 9–13 deferred for later.
 - 2026-02-25T10:24:44+08:00: Removed Audio handling preferences per user's request; speech-to-text remains enabled.
+- 2026-02-25T10:57:00+08:00: User requested automatic transcription and to act on transcriptions without asking; updated USER.md accordingly.
 
 Next steps:
 - Ready for Section 9 (Health & wellbeing). Reply when you want to continue.
