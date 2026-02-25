@@ -1,0 +1,4 @@
+TackCloud: enterprise dashboard — live maps, device health, sensor streaming, alerts & automations.
+Sentinel: enterprise GPS for fleets/events/assets; hardware integration and API integration for system sync.
+EnAware X: solar RTU; supports Modbus, I2C, Analog, Pulse; IP67, 4G, GPS.
+FloodFinder: barometer/ultrasonic/radar sensors; AI-driven alerts, solar-powered, compact deployments.

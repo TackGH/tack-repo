@@ -1,0 +1,11 @@
+Source: https://www.tackgps.app/pages/features
+
+Per-device pricing (by billing term) — Standard / Premium:
+- Quarterly: US$4.95 / US$6.95 per month
+- Yearly: US$3.75 / US$5.75 per month
+- 2-Year: US$2.95 / US$4.95 per month
+
+Plan differences:
+- Location history: 14 days (Standard) vs 90 days (Premium)
+- Active/Standard mode intervals: Premium reports more frequently
+- SIM + cellular data included

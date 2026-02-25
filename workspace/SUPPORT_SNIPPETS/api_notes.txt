@@ -1,0 +1,2 @@
+- No public API docs found on site. Sentinel case studies mention API integration (used by city bike system).
+- Recommended action: email sales@tackgps.app to request API documentation, sandbox credentials, or developer access.

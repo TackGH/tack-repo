@@ -1,0 +1,8 @@
+Source: https://www.tackgps.app/pages/features
+
+Physical specs:
+- Size: 47 x 37 x 17 mm (1.8 x 1.4 x 0.65 in)
+- Weight: 30 g / 1 oz
+- Battery: 750 mAh rechargeable (up to ~30 days in standard mode)
+- Environmental: Recommended operating temp 0°C to 40°C; max operating -10°C to 50°C
+- In the box: Tack GPS Device (with embedded SIM), USB-C cable, wrist lanyard

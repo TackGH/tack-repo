@@ -1,0 +1,6 @@
+/node_modules/
+/.next/
+/qmd-index/
+/workspace-index/
+.mission-control/logs/
+file_*
