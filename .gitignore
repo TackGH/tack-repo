@@ -4,3 +4,6 @@
 /workspace-index/
 .mission-control/logs/
 file_*
+
+# Secrets directory entries
+secrets/notion.env
