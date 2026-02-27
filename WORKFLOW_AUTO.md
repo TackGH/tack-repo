@@ -23,8 +23,13 @@ On-demand recall (efficient retrieval):
 Index & fast lookups:
 - The assistant will maintain memory/index.json (tags → entries with pointers + hashes) to speed tag-based lookups without scanning full files.
 
+Heartbeats LLM routing:
+- Heartbeat generation will prefer Ollama local model "llama3.2:3b" when available.
+- If Ollama is unavailable, heartbeats will fall back to the default chat model (openai/gpt-5-mini).
+- HEARTBEAT.md will specify the preferred model and fallback behaviour.
+
 Logging & auditability:
 - Every autonomous write (append to daily file, MEMORY.md, index updates) is timestamped and recorded in the current day's memory file with an explanation and source.
 - EOD sends are logged in memory/last_eod_sent.json with timestamp + hash for dedupe.
 
-User instruction recorded: keep daily files indefinitely; use on-demand search and a small curated MEMORY.md; maintain index.json for fast retrieval; tie EOD → MEMORY.md after approval.
+User instruction recorded: keep daily files indefinitely; use on-demand search and a small curated MEMORY.md; maintain index.json for fast retrieval; tie EOD → MEMORY.md after approval; use Ollama llama3.2:3b for heartbeats with fallback to openai/gpt-5-mini.
